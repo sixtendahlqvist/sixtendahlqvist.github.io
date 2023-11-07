@@ -18,6 +18,11 @@
 </p>
 
 <style>
+  .name{
+    color: rebeccapurple;
+    font-family: 'Gill Sans'
+  }
+
   h1{
     color: grey
   }
